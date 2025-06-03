@@ -33,6 +33,7 @@ nav ul li a {
 
 main {
     padding: 20px;
+    border: red;
 }
 
 footer {
@@ -40,9 +41,14 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+    border: 100px;
+    box-shadow: red;
 }
 .Abramov{
     width: 200px;
     border-radius: 20%;
     display: flex;
+    border: 100px;
+    box-shadow: red;
+
 }
