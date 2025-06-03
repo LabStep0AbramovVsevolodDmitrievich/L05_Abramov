@@ -41,8 +41,8 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
-    border: 100px;
-    box-shadow: red;
+    border: dashed 10px green;
+    box-shadow: -100px -100px 50px red;
 }
 .Abramov{
     width: 200px;
